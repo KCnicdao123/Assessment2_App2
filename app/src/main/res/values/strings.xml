@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assessment 2_App 2</string>
+    <string name="selectItem">Selected Item:</string>
+
+    //Array for the items in the moods dropdown
+    <string-array name="Moods">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Anxious</item>
+        <item>Excited</item>
+    </string-array>
+
+    //Array for the items in the genre dropdown
+    <string-array name="Genre">
+        <item>Pop</item>
+        <item>RnB</item>
+        <item>Country</item>
+        <item>Gospel</item>
+    </string-array>
+</resources>
